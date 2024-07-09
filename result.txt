@@ -1,0 +1,24 @@
+[32m[Vulnerability] [33m[Potensial Web Cache Poisoning] [37mhttps://example.com
+[32m[Vulnerability] [33m[Potensial Web Cache Poisoning] [37mhttps://example.com
+[32m[Vulnerability] [33m[Potensial Web Cache Poisoning] [37mhttps://example.com
+[32m[Vulnerability] [33m[Potensial Web Cache Poisoning] [37mhttps://example.com
+[32m[Vulnerability] [33m[Potensial Web Cache Poisoning] [37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Header: Host] [37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potensial Web Cache Poisoning] [37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Header: Host] [37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
+[32m[Vulnerability] [33m[Potential CORS Misconfiguration][37mhttps://security50.crossidentityqa.com
